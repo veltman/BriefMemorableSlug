@@ -1,2 +1,3 @@
 # BriefMemorableSlug
-Generate random adjective-adjective-animal slugs
+
+Generate random adjective-adjective-animal slugs.

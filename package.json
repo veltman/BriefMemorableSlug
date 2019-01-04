@@ -1,0 +1,19 @@
+{
+  "name": "briefmemorableslug",
+  "version": "1.0.0",
+  "description": "Generate random adjective-adjective-animal slugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veltman/BriefMemorableSlug.git"
+  },
+  "author": "Noah Veltman (@veltman)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/veltman/BriefMemorableSlug/issues"
+  },
+  "homepage": "https://github.com/veltman/BriefMemorableSlug#readme"
+}
