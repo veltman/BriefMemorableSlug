@@ -1,6 +1,6 @@
 {
   "name": "briefmemorableslug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate random adjective-adjective-animal slugs",
   "main": "index.js",
   "scripts": {

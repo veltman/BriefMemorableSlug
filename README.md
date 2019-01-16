@@ -1,6 +1,6 @@
 # BriefMemorableSlug
 
-Generate random adjective-adjective-animal slugs. 4 billion combos, no dependencies, definitely not cryptographically secure randomness.
+Generate random adjective-adjective-animal slugs. 2.2 billion combos, no dependencies, definitely not cryptographically secure randomness.
 
 ```js
 var slug = require("briefmemorableslug");

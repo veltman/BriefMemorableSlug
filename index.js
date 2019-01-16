@@ -11,7 +11,7 @@ module.exports = function() {
 module.exports.array = generate;
 
 function generate() {
-  let i = Math.floor(Math.random() * NUM_ADJECTIVES),
+  var i = Math.floor(Math.random() * NUM_ADJECTIVES),
     j = Math.floor(Math.random() * NUM_ADJECTIVES - 1),
     k = Math.floor(Math.random() * NUM_ANIMALS);
   if (j >= i) {
